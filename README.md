@@ -32,7 +32,7 @@ This Bash script monitors the health of a Linux system by checking CPU usage, me
 3. **Run the Script**:
 
    ```bash
-   ./monitor_health.sh
+   sudo ./monitor_health.sh
    ```
 
 4. **Output**:
